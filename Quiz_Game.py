@@ -1,4 +1,5 @@
 
+from readline import get_current_history_length
 import tkinter as tk
 from tkinter import messagebox
 
